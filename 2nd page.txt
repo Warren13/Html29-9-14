@@ -1,0 +1,9 @@
+<!DOCTYP html>
+<html>
+
+<title></title>
+
+<head> 
+<body> </body>
+</html>
+<link ref "style sheet type"text/css" href="style.css"/>
